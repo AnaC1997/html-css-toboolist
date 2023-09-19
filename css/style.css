@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+header .container-header{
+    background-color: rgb(86, 243, 191);
+    width: 100%;
+  
+
+}
+
+#logo{
+    height: 50px;
+    margin: 30px;
+}
+
+#tobolist{
+    display: inline;  
+
+}
+
+.task{
+    border-width: 10px;
+    
+}
+
+.task1{
+    color: rgb(182, 214, 243);
+    background-color: blue;
+    display: inline-block;
+    width: 100px;
+    height: 40px;
+    box-sizing: border-box;
+    margin: 1%;
+    
+}
+
+.task2{
+    color: rgb(137, 143, 149);
+    background-color: white;
+    display: inline-block;
+    width: 100px;
+    height: 40px;
+    border: 2px solid #b8b5b5;
+    box-sizing: border-box;
+    margin: 1%;
+}
+
+
+.custom-list .checkmark{
+    
+}
